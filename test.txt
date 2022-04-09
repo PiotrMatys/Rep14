@@ -1,2 +1,3 @@
 ffff
 Moja zona mnie uratowala z gitem
+pomoc git git 
